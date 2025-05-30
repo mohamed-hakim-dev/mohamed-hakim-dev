@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mohamed Hakim 👋</h1>
 
-<!--
-**mohamed-hakim-dev/mohamed-hakim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/mohamed-hakim-dev" target="_blank">
+    <img src="https://img.shields.io/github/followers/mohamed-hakim-dev?label=GitHub&style=social" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 💼 Software Engineer | Frontend Developer (React ⚛️, Angular 💚, Next.js ⚡)
+- 🛠️ Skilled in React, Angular, Next.js, TypeScript, RxJS, Tailwind CSS, SCSS
+- 🌱 Currently learning Signals, inject(), and advanced RxJS Operators
+- 🔭 Working on a e_commerce web app: **FreshCart**
+- 🎯 Passionate about performance, clean UI/UX, and building things that matter
+
+---
+
+### 💻 Tech Stack
+
+```ts
+Languages:  TypeScript | JavaScript | C# | HTML | SCSS
+Frontend :  React | Angular | Next.js | RxJS | TailwindCSS | Bootstrap
+Backend  :  .NET Core | REST APIs
+Tools    :  Git | VS Code | Postman | Figma | GitHub Projects
+```
+
+---
+
+### 🚀 Projects
+
+- 🛒 [FreshCart](https://github.com/mohamed-hakim-dev/freshcart) – E-commerce  platform ;
+
+- 🎵 [Musicfy](https://github.com/mohamed-hakim-dev/musicfy) – Music streaming app clone
+
+> يمكنك تعديل الروابط دي وقت ما تحب وتضيف مشاريعك الحقيقية 👌
+---
+
+
+### 📫 Connect with Me
+
+- 📞 Phone: **201212187066**
+- 📧 Email: **mohamedhakim.dev@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/mohamed-hakim-dev](https://www.linkedin.com/in/mohamed-hakim-dev/)
+
+---
+
+<p align="center">🚀 "Keep learning, keep building." 🌟</p>
