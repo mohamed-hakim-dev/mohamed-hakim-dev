@@ -33,8 +33,6 @@ Tools    :  Git | VS Code | Postman | Figma | GitHub Projects
 - 🛒 [FreshCart](https://github.com/mohamed-hakim-dev/freshcart) – E-commerce  platform ;
 
 - 🎵 [Musicfy](https://github.com/mohamed-hakim-dev/musicfy) – Music streaming app clone
-
-> يمكنك تعديل الروابط دي وقت ما تحب وتضيف مشاريعك الحقيقية 👌
 ---
 
 
