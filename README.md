@@ -11,8 +11,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Software Engineer | Frontend Developer (React ⚛️, Angular 💚, Next.js ⚡)
-- 🛠️ Skilled in React, Angular, Next.js, TypeScript, RxJS, Tailwind CSS, SCSS
-- 🌱 Currently learning Signals, inject(), and advanced RxJS Operators
+- 🛠️ Skilled in React, Angular, Next.js, TypeScript, Tailwind CSS, SCSS
 - 🔭 Working on a e_commerce web app: **FreshCart**
 - 🎯 Passionate about performance, clean UI/UX, and building things that matter
 
